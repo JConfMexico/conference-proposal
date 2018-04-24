@@ -1,9 +1,9 @@
 # Conference Proposal
-Java Development Day Call for Papers is now open.
+Java Development Day call for Papers is now open.
 
 ### Submit a Proposal
 
-We are willing to join Java talent around the world, please feel free to submit your proposal under this topics:
+We are willing to join Java talent around the world, please feel free to submit your conference proposal under this topics:
 
 * Java Core
 * Java Developer Community
@@ -22,9 +22,9 @@ We are willing to join Java talent around the world, please feel free to submit 
 * Provide a brief description about you
 	* Name
 	* Company you are working on
-	* Brief history what have you been doing in Java
+	* Description what have you been doing in Java
 
 #### Wisdom of The Crowd
 
-If you do not have a proposal but you want to provide a vote, select "Pick your reaction" in some issue you are interested and select +1.
+If you do not have a proposal but you want to submit a vote for any, select "Pick your reaction" in some issue you are interested in and select +1.
 
