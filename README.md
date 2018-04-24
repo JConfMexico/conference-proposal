@@ -13,6 +13,7 @@ We are willing to join Java talent around the world, please feel free to submit 
 * Java Ecosystem
 * JVM Languages
 * Database Big Data & Data Science
+* Other Technologies & JVM
 
 #### Instructions
 
