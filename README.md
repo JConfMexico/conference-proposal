@@ -7,12 +7,12 @@ We are willing to join Java talent around the world, please feel free to submit 
 
 * Java Core
 * Java Developer Community
-* Containers, Serverless and Cloud
-* Java Development side & Microservices
+* Containers & Cloud
+* Java Backend & Microservices
 * Development Tools
 * Java Ecosystem
 * JVM Languages
-* Database Big Data & Data Science
+* Big Data & Data Science
 * JVM Related
 
 #### Instructions
