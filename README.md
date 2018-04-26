@@ -19,7 +19,10 @@ We are willing to join Java talent around the world, please feel free to submit 
 
 * Provide your GitHub username and ask for repository access to: java.dev.day@gmail.com
 * Open an issue and assign it to you
-* Describe your conference under topics before described 
+* Assign a label topic to your issue
+* Describe your conference
+  * Description
+  * Agenda
 * Provide a brief description about you
 	* Name
 	* Company you are working on
