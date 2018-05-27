@@ -20,13 +20,19 @@ We are willing to join Java talent around the world, please feel free to submit 
 * Provide your GitHub username and ask for repository access to: java.dev.day@gmail.com
 * Open an issue and assign it to you
 * Assign a label topic to your issue
-* Describe your conference
+* Assign a type proposal label whether is a techtalk or workshop
+* Describe your proposal
   * Description
   * Agenda
 * Provide a brief description about you
 	* Name
 	* Company you are working on
 	* Description what have you been doing in Java
+
+	#### Time
+
+	* Techtalks: 45 minutes talk/demo, 15 minutes for questions
+	* Workshops: 2 hours 
 
 #### Wisdom of The Crowd
 
