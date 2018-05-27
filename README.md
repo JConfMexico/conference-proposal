@@ -29,7 +29,7 @@ We are willing to join Java talent around the world, please feel free to submit 
 	* Company you are working on
 	* Description what have you been doing in Java
 
-	#### Time
+#### Time
 
 	* Techtalks: 45 minutes talk/demo, 15 minutes for questions
 	* Workshops: 2 hours 
