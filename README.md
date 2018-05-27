@@ -31,8 +31,8 @@ We are willing to join Java talent around the world, please feel free to submit 
 
 #### Time
 
-	* Techtalks: 45 minutes talk/demo, 15 minutes for questions
-	* Workshops: 2 hours 
+* Techtalks: 45 minutes talk/demo, 15 minutes for questions
+* Workshops: 2 hours 
 
 #### Wisdom of The Crowd
 
